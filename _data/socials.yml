@@ -1,0 +1,8 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: # path to your CV PDF file (e.g., /assets/pdf/cv.pdf once you add one)
+email: ahad.baig@unibe.ch # your email address
+scholar_userid: uKzfZuoAAAAJ # your Google Scholar ID
+dblp_url: https://dblp.org/pid/250/1866.html # your DBLP page
+rss_icon: true # comment this line to hide the RSS icon
