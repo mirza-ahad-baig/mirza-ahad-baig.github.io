@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mirza-ahad-baig.github.io/sitemap.xml
