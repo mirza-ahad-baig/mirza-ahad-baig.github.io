@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Researcher in the [Cryptology and Data Security Group](https://crypto.unibe.ch) at the University of Bern.
+I am a Postdoctoral Researcher in the [Cryptology and Data Security Group](https://crypto.unibe.ch) at the University of Bern under [Christian Cachin](https://crypto.unibe.ch/cc/).
 
 I am primarily interested in cryptography and distributed computing, but more broadly, I am interested in practically motivated problems in Theoretical Computer Science. Recently, I have been working on theoretical aspects of blockchains with a particular emphasis on security and efficiency. I have also started exploring the intersection of machine learning with cryptography and distributed computing.
 
