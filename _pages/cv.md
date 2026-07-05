@@ -1,12 +1,14 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: Curriculum vitae.
 ---
+
+🚧 **My CV is still being compiled.**
+
+Rest assured it terminates in polynomial time — unlike this sentence, it will be here soon. In the meantime, my [publications](/publications/) already leak most of the non-negligible details.
+
+_Coming soon™ (with all but negligible probability)._
